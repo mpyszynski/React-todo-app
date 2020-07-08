@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FormInput /> should return section with label and input 1`] = `ShallowWrapper {}`;
+
+exports[`<TodoForm /> should return correct heading with 0 items in todo list 1`] = `ShallowWrapper {}`;
+
+exports[`<TodoForm /> should return correct heading with 10 items in todo list 1`] = `ShallowWrapper {}`;
